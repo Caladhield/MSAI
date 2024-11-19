@@ -1,0 +1,5 @@
+Region,Sales
+Norr,12000
+Syd,15000
+Öst,8000
+Väst,10000
