@@ -1,0 +1,11 @@
+Name,Score
+Alice,88
+Bob,92
+Charlie,70
+Diana,85
+Eve,78
+Frank,65
+Grace,91
+Henry,73
+Ivy,68
+Jack,87

@@ -1,0 +1,1 @@
+This is an advanced text example. It contains several sentences with varying lengths. Some sentences are longer than others, and this provides an interesting opportunity for analysis. Understanding patterns in text can be insightful for many applications. Text analysis is both challenging and rewarding.
